@@ -3,7 +3,7 @@
 - 🎡 Themepark Enthousiast
 - 🖥️ Information Technology Student
 
-Want to know the wait times of a themepark? Check out my [Theme Parks API](https://github.com/timyboy12345/Themeparks-Node-API) or the corresponding [NuxtJS Front End](https://github.com/timyboy12345/Themeparks-NuxtJS). Want to see a list of all projects I've worked on? Take a look at [my personal site, arendz.nl](https://arendz.nl).
+Want to know the wait times of a themepark? Check out my website dedicated to tracking theme park wait times: [themeparkplanner.com](https://themeparkplanner.com) ([GitHub](https://github.com/timyboy12345/Themeparks-NuxtJS)) or the corresponding API [tp.arendz.nl](https://tp.arendz.nl) ([GitHub](https://github.com/timyboy12345/Themeparks-Node-API)). Want to see a list of all projects I've worked on? Take a look at [my personal site, arendz.nl](https://arendz.nl).
 
 <!--
 **timyboy12345/timyboy12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
